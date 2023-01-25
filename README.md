@@ -1,2 +1,2 @@
 # leadsTracker
-// A chrome extension for keeping tracks of links 
+A chrome extension for keeping tracks of links 
